@@ -20,3 +20,11 @@
  - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-inspiron-dell-14-serie-300-861593965
  - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-samsung-em-perfeito-estado-863286113
  - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-863319195
+ - [x] 
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/venda-notebook-864620963
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/vendo-notebook-864623145
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-869274936
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/semi-novo-500-reais-871222181
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-lenovo-872656012
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-sim-intel-core-promocao-promocao-873131079
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-845256380

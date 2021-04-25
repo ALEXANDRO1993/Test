@@ -14,3 +14,9 @@
  - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-866610284
  - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-872657574
 
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-philco-873292183
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-hp-873299378
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/vendo-um-notebook-500-reais-numero-861230058
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-inspiron-dell-14-serie-300-861593965
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-samsung-em-perfeito-estado-863286113
+ - [x] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-863319195

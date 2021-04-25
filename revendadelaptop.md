@@ -7,4 +7,4 @@
  - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/troco-notebook-864931492
  - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/compr-seu-notebook-com-defeito-843189143
  - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-com-defeito-856442168
-
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/venda-notebook-864620963

@@ -1,46 +1,41 @@
 # NOTEBOOKS
  - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/vendo-notebook-hp-r-300-871033416
  - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/vendo-notebook-hp-r-300-871033416
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/sss-nvme-256gb-turbinar-seu-notebook-pc-870526066
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-sti-leia-a-descricao-850608423
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-philco-862781154
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-869389387
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-bem-conservado-873292995
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-semp-toshiba-r-400-852981659
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/vende-se-notebook-854625522
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/ssd-a-data-xpg-sx6000-256gb-857193349
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-positivo-870282034
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/vende-se-um-notebook-samsung-851507400
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/vende-se-851510790
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-866610284
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-872657574
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-philco-873292183
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-hp-873299378
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/vendo-um-notebook-500-reais-numero-861230058
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-inspiron-dell-14-serie-300-861593965
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-samsung-em-perfeito-estado-863286113
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-863319195
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/venda-notebook-864620963
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/vendo-notebook-864623145
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-869274936
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/semi-novo-500-reais-871222181
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-lenovo-872656012
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-sim-intel-core-promocao-promocao-873131079
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-845256380
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/tenho-um-notebook-para-vender-e-bem-rapido-850809352
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/vende-se-notebook-869238011
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-asus-12-polegadas-855698123
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-580-00-868252671
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/vende-se-um-notebook-samsung-851217572
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/vende-se-notebook-856252360
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-sim-positivo-866432373
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-867702884
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-compaq-869655574
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-samsung-rv411-871432709
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-bom-para-estudos-com-bateria-durando-30-minutos-862336509
- - https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-acer-867806267
-
-
-
-
-
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/sss-nvme-256gb-turbinar-seu-notebook-pc-870526066
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-sti-leia-a-descricao-850608423
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-philco-862781154
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-869389387
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-bem-conservado-873292995
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-semp-toshiba-r-400-852981659
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/vende-se-notebook-854625522
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/ssd-a-data-xpg-sx6000-256gb-857193349
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-positivo-870282034
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/vende-se-um-notebook-samsung-851507400
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/vende-se-851510790
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-866610284
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-872657574
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-philco-873292183
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-hp-873299378
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/vendo-um-notebook-500-reais-numero-861230058
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-inspiron-dell-14-serie-300-861593965
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-samsung-em-perfeito-estado-863286113
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-863319195
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/venda-notebook-864620963
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/vendo-notebook-864623145
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-869274936
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/semi-novo-500-reais-871222181
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-lenovo-872656012
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-sim-intel-core-promocao-promocao-873131079
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-845256380
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/tenho-um-notebook-para-vender-e-bem-rapido-850809352
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/vende-se-notebook-869238011
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-asus-12-polegadas-855698123
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-580-00-868252671
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/vende-se-um-notebook-samsung-851217572
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/vende-se-notebook-856252360
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-sim-positivo-866432373
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-867702884
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-compaq-869655574
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-samsung-rv411-871432709
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-bom-para-estudos-com-bateria-durando-30-minutos-862336509
+ - [ ] https://rr.olx.com.br/roraima/computadores-e-acessorios/notebook-acer-867806267
